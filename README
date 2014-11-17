@@ -1,0 +1,8 @@
+ABOUT
+==========
+It's a physcol, man.
+
+Dependecies
+=========
+django model utils
+django-registration
